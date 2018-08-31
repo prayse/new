@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergeyamator/itvdn-landing.git"
+    "url": "git+https://github.com/prayse/new.git"
   },
   "author": "prayse",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sergeyamator/itvdn-landing/issues"
+    "url": "https://github.com/prayse/new/issues"
   },
-  "homepage": "https://github.com/sergeyamator/itvdn-landing#readme",
+  "homepage": "https://github.com/prayse/new#readme",
   "devDependencies": {
     "browser-sync": "^2.24.7",
     "gulp": "github:gulpjs/gulp#4.0",
